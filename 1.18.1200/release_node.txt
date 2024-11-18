@@ -1,0 +1,4 @@
+v.1.18.1200
+
+- support TMcraft Setup
+- update Third Party Licenses Notice

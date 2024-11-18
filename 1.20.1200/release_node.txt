@@ -1,0 +1,5 @@
+v.1.20.1200.3005
+
+1. Support TMcraft Node with single, binary or muliple output types.
+2. Increase the range of TMcraft Toolbar size setting.
+3. Defining TMcraft Node size is now available.

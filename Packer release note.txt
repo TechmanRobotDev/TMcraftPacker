@@ -1,0 +1,26 @@
+v.1.20.1200
+
+- Support TMcraft Node with single, binary or muliple output types.
+- Increase the range of TMcraft Toolbar size setting.
+ - Defining TMcraft Node size is now available.
+
+==================================================================
+v.1.18.1200
+
+- support TMcraft Setup
+- update Third Party Licenses Notice
+
+==================================================================
+v.1.12.1100
+
+- support: TMcraft Service, TMcraft Node, TMcraft Shell, TMcraft Toolbar 
+- [New] TMcraft Project Types: Toolbar, Shell
+- For more detail, please refer to document: TMcraft [item] Tutorial_Basic Development
+
+==================================================================
+v.1.10.1900
+
+- 1st release
+- support: TMcraft Service, TMcraft Node
+
+==================================================================
